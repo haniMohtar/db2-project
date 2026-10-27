@@ -2,3 +2,5 @@
 *.tmp
 ~$*
 Thumbs.db
+*.session.sql
+*.cdb
